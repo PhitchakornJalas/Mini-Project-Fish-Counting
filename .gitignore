@@ -265,3 +265,5 @@ tensorboard/
 *.log
 mlruns/
 lightning_logs/
+
+output/
